@@ -1,0 +1,12 @@
+.todo-header {
+    width: 100%;
+    float: top;
+    text-align: left;
+}
+.todo-header-status {
+    text-align: right;
+    margin-right: 0px;
+}
+.todo-header-name {
+    text-align: left;
+}
